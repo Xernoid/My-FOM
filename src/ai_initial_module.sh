@@ -23,5 +23,5 @@ if [ $? -eq 0 ]; then
 else
     echo 'Неудача...я раздавлен. Пока!'
 fi
-
+read brbr
 

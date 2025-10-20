@@ -1,7 +1,5 @@
 #!/bin/bash
-
-
-$index 
+$index
 while IFS= read -r line
 do
   index=$[ $index + 1 ]
