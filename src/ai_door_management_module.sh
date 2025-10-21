@@ -91,3 +91,4 @@ if [ $count -eq 34 ]; then
 else
   echo "Ошибка загрузки данных... Протокол ИИ прерван."
 fi
+read brbrpatapim
